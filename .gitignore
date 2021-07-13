@@ -32,3 +32,5 @@
 *.app
 /OOP/.vs/OOP/v16/ipch/AutoPCH/ad8431420c9e1ac5
 /OOP/.vs/OOP/v16
+/.vs
+/Localtest/.vs/Localtest/v16
