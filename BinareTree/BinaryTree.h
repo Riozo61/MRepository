@@ -16,6 +16,16 @@ public:
 	BinaryTree(node* = NULL);
 	void AddRight(int);
 	void AddLeft(int);
+	void PreOrder(node* root)
+	{
+		if (root == NULL)
+		{
+			return;
+		}
+		cout << root->data << "\t";
+		PreOrder(root->left);
+		PreOrder(root->right);
+	}
 
 
 
