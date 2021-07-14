@@ -1,0 +1,5 @@
+﻿  ArrayTemp.cpp
+  Localtest.cpp
+  Generating Code...
+C:\Users\Student PCE\Documents\Бондарук\Git\Localtest\ArrayTemp.h(31): warning C4715: 'operator<<': not all control paths return a value
+  Localtest.vcxproj -> C:\Users\Student PCE\Documents\Бондарук\Git\Localtest\x64\Debug\Localtest.exe
