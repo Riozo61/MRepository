@@ -1,8 +1,15 @@
-﻿
-#include <iostream>
+﻿#include <iostream>
+#include"BinaryTree.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    BinaryTree tree;
+    tree.Add(8);
+    tree.Add(3);
+    tree.Add(10);
+    tree.Add(6);
+    tree.Add(8);
+    tree.InOrder();
+
 }
 
